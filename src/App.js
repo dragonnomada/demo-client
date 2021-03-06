@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hola mundo :D
+          Hola mundo :D (Usar visual code para los cambios en git)
         </p>
         <a
           className="App-link"
